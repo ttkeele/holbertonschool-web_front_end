@@ -719,7 +719,7 @@ html {
         ============================= */
   
   .section-about-us [class*="col-"] {
-    align-self: center;
+    align-self: left;
   }
   
   /*** 4. CARD ***/
